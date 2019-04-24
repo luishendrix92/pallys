@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2>I am in <%= @whereami %></h2>
+  <p class="lead">Admit it, this is cool.</p>
+</div>
